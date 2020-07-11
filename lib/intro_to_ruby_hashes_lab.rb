@@ -12,5 +12,4 @@ end
 
 def id_hash_generator(number = 1729)
   id_hash = { :id => 1729 }
-  id_hash[:id]
 end
