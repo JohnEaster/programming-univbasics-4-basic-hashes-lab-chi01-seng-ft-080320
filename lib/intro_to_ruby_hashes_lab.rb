@@ -3,11 +3,11 @@ def new_hash
 end
 
 def my_hash
-  family = { mother: "Kathryn", father: "Eric", brother: "Seth"}
+  family = { mother: "Kathryn", father: "Eric", brother: "Seth" }
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  pionner_hash = { :name => 'Grace Hopper' }
 end
 
 
